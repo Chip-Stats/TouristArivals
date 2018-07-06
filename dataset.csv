@@ -1,0 +1,336 @@
+category,date,amount
+Africa,1950,0.4
+Africa,1951,0.5
+Africa,1952,0.6
+Africa,1953,0.4
+Africa,1954,0.5
+Africa,1955,0.5
+Africa,1956,0.5
+Africa,1957,0.6
+Africa,1958,0.4
+Africa,1959,0.6
+Africa,1960,0.6
+Africa,1961,0.8
+Africa,1962,0.8
+Africa,1963,0.7
+Africa,1964,0.8
+Africa,1965,1.1
+Africa,1966,1.7
+Africa,1967,1.9
+Africa,1968,1.8
+Africa,1969,1.5
+Africa,1970,1.9
+Africa,1971,2.7
+Africa,1972,3.7
+Africa,1973,2.7
+Africa,1974,3.2
+Africa,1975,3.8
+Africa,1976,4.1
+Africa,1977,4.5
+Africa,1978,4.2
+Africa,1979,5
+Africa,1980,5.8
+Africa,1981,6.5
+Africa,1982,6.1
+Africa,1983,6.6
+Africa,1984,7.2
+Africa,1985,7.8
+Africa,1986,7.6
+Africa,1987,8
+Africa,1988,10.2
+Africa,1989,11.2
+Africa,1990,12.3
+Africa,1991,13.2
+Africa,1992,14.8
+Africa,1993,15.2
+Africa,1994,15.6
+Africa,1995,16.5
+Africa,1996,17.9
+Africa,1997,18.7
+Africa,1998,20.7
+Africa,1999,21.8
+Africa,2000,22.5
+Africa,2001,23.5
+Africa,2002,24.2
+Africa,2003,25.5
+Africa,2004,27.8
+Africa,2005,30.1
+Africa,2006,33.4
+Africa,2007,35.7
+Africa,2008,35.8
+Africa,2009,37
+Africa,2010,40.7
+Africa,2011,42.7
+Africa,2012,41.4
+Africa,2013,42.6
+Africa,2014,44.5
+Africa,2015,43.4
+Africa,2016,47
+Americas,1950,6.1
+Americas,1951,6.8
+Americas,1952,9.4
+Americas,1953,8.2
+Americas,1954,11.9
+Americas,1955,9
+Americas,1956,6.1
+Americas,1957,12.4
+Americas,1958,10.1
+Americas,1959,9.6
+Americas,1960,13.5
+Americas,1961,17.8
+Americas,1962,16.7
+Americas,1963,15.2
+Americas,1964,17.5
+Americas,1965,18.7
+Americas,1966,33.6
+Americas,1967,29.8
+Americas,1968,25.9
+Americas,1969,27.5
+Americas,1970,34.1
+Americas,1971,38.3
+Americas,1972,39
+Americas,1973,34.8
+Americas,1974,38.7
+Americas,1975,40.3
+Americas,1976,49.2
+Americas,1977,47
+Americas,1978,46.7
+Americas,1979,43.4
+Americas,1980,50.3
+Americas,1981,50.4
+Americas,1982,48.2
+Americas,1983,48.3
+Americas,1984,54.4
+Americas,1985,52.5
+Americas,1986,57.2
+Americas,1987,61.8
+Americas,1988,67
+Americas,1989,70.1
+Americas,1990,74.9
+Americas,1991,76.9
+Americas,1992,82.5
+Americas,1993,82.5
+Americas,1994,84.8
+Americas,1995,87.9
+Americas,1996,92.4
+Americas,1997,93.8
+Americas,1998,96.1
+Americas,1999,98.4
+Americas,2000,103.4
+Americas,2001,98.5
+Americas,2002,94.2
+Americas,2003,91.3
+Americas,2004,101.4
+Americas,2005,107.7
+Americas,2006,109.6
+Americas,2007,115
+Americas,2008,119.3
+Americas,2009,114.3
+Americas,2010,121.1
+Americas,2011,142.6
+Americas,2012,135
+Americas,2013,140.4
+Americas,2014,146.8
+Americas,2015,155.5
+Americas,2016,162.1
+Asia & Pacific,1950,0.2
+Asia & Pacific,1951,0.4
+Asia & Pacific,1952,0.2
+Asia & Pacific,1953,0.4
+Asia & Pacific,1954,0.4
+Asia & Pacific,1955,0.2
+Asia & Pacific,1956,0.6
+Asia & Pacific,1957,0.3
+Asia & Pacific,1958,0.5
+Asia & Pacific,1959,0.6
+Asia & Pacific,1960,0.7
+Asia & Pacific,1961,1.6
+Asia & Pacific,1962,0.8
+Asia & Pacific,1963,1
+Asia & Pacific,1964,0.7
+Asia & Pacific,1965,1.7
+Asia & Pacific,1966,2.7
+Asia & Pacific,1967,4.5
+Asia & Pacific,1968,3.3
+Asia & Pacific,1969,2.8
+Asia & Pacific,1970,5
+Asia & Pacific,1971,5.6
+Asia & Pacific,1972,6.7
+Asia & Pacific,1973,5.7
+Asia & Pacific,1974,8.1
+Asia & Pacific,1975,8.2
+Asia & Pacific,1976,15.5
+Asia & Pacific,1977,14.8
+Asia & Pacific,1978,15.1
+Asia & Pacific,1979,9.6
+Asia & Pacific,1980,18.6
+Asia & Pacific,1981,20.1
+Asia & Pacific,1982,21
+Asia & Pacific,1983,21.5
+Asia & Pacific,1984,23.8
+Asia & Pacific,1985,26.5
+Asia & Pacific,1986,29.7
+Asia & Pacific,1987,34
+Asia & Pacific,1988,39.3
+Asia & Pacific,1989,39.9
+Asia & Pacific,1990,45.3
+Asia & Pacific,1991,46.8
+Asia & Pacific,1992,53.1
+Asia & Pacific,1993,58.3
+Asia & Pacific,1994,64.6
+Asia & Pacific,1995,66.5
+Asia & Pacific,1996,72.9
+Asia & Pacific,1997,72.4
+Asia & Pacific,1998,72.1
+Asia & Pacific,1999,79.6
+Asia & Pacific,2000,89.2
+Asia & Pacific,2001,93.4
+Asia & Pacific,2002,100.8
+Asia & Pacific,2003,91.4
+Asia & Pacific,2004,116.3
+Asia & Pacific,2005,125.4
+Asia & Pacific,2006,134.6
+Asia & Pacific,2007,148.6
+Asia & Pacific,2008,148.5
+Asia & Pacific,2009,146.1
+Asia & Pacific,2010,165.8
+Asia & Pacific,2011,204.4
+Asia & Pacific,2012,169.9
+Asia & Pacific,2013,207.6
+Asia & Pacific,2014,213.3
+Asia & Pacific,2015,225.4
+Asia & Pacific,2016,244.4
+Europe,1950,13.6
+Europe,1951,22.2
+Europe,1952,30.7
+Europe,1953,32.8
+Europe,1954,31.6
+Europe,1955,28.4
+Europe,1956,39.4
+Europe,1957,14.9
+Europe,1958,31.4
+Europe,1959,21.5
+Europe,1960,40.7
+Europe,1961,40.7
+Europe,1962,60.1
+Europe,1963,63.1
+Europe,1964,55.2
+Europe,1965,67.5
+Europe,1966,71.1
+Europe,1967,90.2
+Europe,1968,90.5
+Europe,1969,86.8
+Europe,1970,91.2
+Europe,1971,103.1
+Europe,1972,118.7
+Europe,1973,117.7
+Europe,1974,109.1
+Europe,1975,124.2
+Europe,1976,126.2
+Europe,1977,136.1
+Europe,1978,124.3
+Europe,1979,140.4
+Europe,1980,144
+Europe,1981,141.6
+Europe,1982,141.4
+Europe,1983,144.9
+Europe,1984,156
+Europe,1985,164.8
+Europe,1986,166.4
+Europe,1987,180.7
+Europe,1988,186.9
+Europe,1989,202.3
+Europe,1990,214.3
+Europe,1991,212.9
+Europe,1992,227.7
+Europe,1993,234.6
+Europe,1994,244.6
+Europe,1995,254.2
+Europe,1996,268
+Europe,1997,284.7
+Europe,1998,294.2
+Europe,1999,298.9
+Europe,2000,315.5
+Europe,2001,318.9
+Europe,2002,328.4
+Europe,2003,328.5
+Europe,2004,342.4
+Europe,2005,356.2
+Europe,2006,372.8
+Europe,2007,391.2
+Europe,2008,391.5
+Europe,2009,372.5
+Europe,2010,394.9
+Europe,2011,413.5
+Europe,2012,405.1
+Europe,2013,452
+Europe,2014,468.1
+Europe,2015,490.2
+Europe,2016,500
+Middle East,1950,0.2
+Middle East,1951,0.4
+Middle East,1952,0.2
+Middle East,1953,0.3
+Middle East,1954,0.3
+Middle East,1955,0.3
+Middle East,1956,0.2
+Middle East,1957,0.4
+Middle East,1958,0.3
+Middle East,1959,0.5
+Middle East,1960,0.5
+Middle East,1961,1.2
+Middle East,1962,0.9
+Middle East,1963,1.1
+Middle East,1964,1.6
+Middle East,1965,1.9
+Middle East,1966,1.7
+Middle East,1967,1.8
+Middle East,1968,1.6
+Middle East,1969,1.6
+Middle East,1970,1.5
+Middle East,1971,2
+Middle East,1972,2.8
+Middle East,1973,2.8
+Middle East,1974,2.6
+Middle East,1975,2.8
+Middle East,1976,3.3
+Middle East,1977,4.2
+Middle East,1978,3.2
+Middle East,1979,5.4
+Middle East,1980,5.7
+Middle East,1981,6.1
+Middle East,1982,6.7
+Middle East,1983,6.1
+Middle East,1984,6.2
+Middle East,1985,6.5
+Middle East,1986,5.6
+Middle East,1987,5.8
+Middle East,1988,7.3
+Middle East,1989,7.4
+Middle East,1990,7.7
+Middle East,1991,7.2
+Middle East,1992,9.1
+Middle East,1993,9.2
+Middle East,1994,9.8
+Middle East,1995,11.1
+Middle East,1996,12.7
+Middle East,1997,13.5
+Middle East,1998,14.5
+Middle East,1999,17.3
+Middle East,2000,19.7
+Middle East,2001,19.8
+Middle East,2002,23
+Middle East,2003,23.8
+Middle East,2004,29.3
+Middle East,2005,31.5
+Middle East,2006,33.4
+Middle East,2007,38.2
+Middle East,2008,44.5
+Middle East,2009,42.6
+Middle East,2010,44.7
+Middle East,2011,44.7
+Middle East,2012,44.7
+Middle East,2013,44.7
+Middle East,2014,44.7
+Middle East,2015,45.1
+Middle East,2016,43.2
